@@ -1,3 +1,3 @@
-# React Timer Application
+# ReactBoilerplate-RouterFoundationTesting
 
-This is a timer application built on React. It was built from "The Complete React Web Developer Course" by udemy.com's Andrew Mead.
+This ReactBoilerplate contains React code that includes router,foundation and testing modules.
