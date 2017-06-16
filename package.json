@@ -1,8 +1,12 @@
 {
-  "name": "timerapp",
+  "name": "todosapp",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "Simple react todos app",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warniel08/ReactTodosApp.git"
+  },
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
